@@ -1,0 +1,22 @@
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\Martin\source\repos\Exercise5\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\Martin\source\repos\Exercise5\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\Exercise5\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Exercise5\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Exercise5\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\Martin\source\repos\Exercise5\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb

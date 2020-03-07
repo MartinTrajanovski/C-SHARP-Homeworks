@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.exe
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.deps.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.dll
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\bin\Debug\netcoreapp3.1\Exercise7.pdb
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.dll
+C:\Users\Martin\Desktop\C#\Homework 02 C# Martin.Trajanovski\Exercise 7\Exercise7\Exercise7\obj\Debug\netcoreapp3.1\Exercise7.pdb
