@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Martin\Desktop\C#\Homework 02  Part II C# Martin.Trajanovski\SwapNumbers\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
