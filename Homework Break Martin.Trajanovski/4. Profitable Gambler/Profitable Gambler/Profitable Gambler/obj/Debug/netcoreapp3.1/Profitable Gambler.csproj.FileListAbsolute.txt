@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\bin\Debug\netcoreapp3.1\Profitable Gambler.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\obj\Debug\netcoreapp3.1\Profitable Gambler.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\obj\Debug\netcoreapp3.1\Profitable Gambler.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\obj\Debug\netcoreapp3.1\Profitable Gambler.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\obj\Debug\netcoreapp3.1\Profitable Gambler.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Profitable Gambler\Profitable Gambler\Profitable Gambler\obj\Debug\netcoreapp3.1\Profitable Gambler.pdb

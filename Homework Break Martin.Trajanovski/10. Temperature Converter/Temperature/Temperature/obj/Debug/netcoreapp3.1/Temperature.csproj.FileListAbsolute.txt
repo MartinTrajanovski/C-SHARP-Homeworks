@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\10. Temperature Converter\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb

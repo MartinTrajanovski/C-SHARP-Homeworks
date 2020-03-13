@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\bin\Debug\netcoreapp3.1\The Farm Problem.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\obj\Debug\netcoreapp3.1\The Farm Problem.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\obj\Debug\netcoreapp3.1\The Farm Problem.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\obj\Debug\netcoreapp3.1\The Farm Problem.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\obj\Debug\netcoreapp3.1\The Farm Problem.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\The Farm Problem\The Farm Problem\obj\Debug\netcoreapp3.1\The Farm Problem.pdb

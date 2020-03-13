@@ -1,0 +1,22 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\The Farm Problem\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\bin\Debug\netcoreapp3.1\Word Count.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Word Count\Word Count\obj\Debug\netcoreapp3.1\Word Count.pdb

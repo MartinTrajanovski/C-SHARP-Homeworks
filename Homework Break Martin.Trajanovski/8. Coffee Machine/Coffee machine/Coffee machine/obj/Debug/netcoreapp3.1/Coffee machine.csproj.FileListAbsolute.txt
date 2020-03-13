@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\bin\Debug\netcoreapp3.1\Coffee machine.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\obj\Debug\netcoreapp3.1\Coffee machine.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\obj\Debug\netcoreapp3.1\Coffee machine.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\obj\Debug\netcoreapp3.1\Coffee machine.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\obj\Debug\netcoreapp3.1\Coffee machine.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Coffee Machine\Coffee machine\Coffee machine\obj\Debug\netcoreapp3.1\Coffee machine.pdb

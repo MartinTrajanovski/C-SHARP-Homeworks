@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\bin\Debug\netcoreapp3.1\Multiple of 100.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\obj\Debug\netcoreapp3.1\Multiple of 100.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\obj\Debug\netcoreapp3.1\Multiple of 100.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\obj\Debug\netcoreapp3.1\Multiple of 100.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\obj\Debug\netcoreapp3.1\Multiple of 100.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Multiple of 100\Multiple of 100\Multiple of 100\obj\Debug\netcoreapp3.1\Multiple of 100.pdb

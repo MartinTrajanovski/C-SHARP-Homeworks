@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\bin\Debug\netcoreapp3.1\Liquor store.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\obj\Debug\netcoreapp3.1\Liquor store.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\obj\Debug\netcoreapp3.1\Liquor store.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\obj\Debug\netcoreapp3.1\Liquor store.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\obj\Debug\netcoreapp3.1\Liquor store.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Liquor Store\Liquor store\Liquor store\obj\Debug\netcoreapp3.1\Liquor store.pdb

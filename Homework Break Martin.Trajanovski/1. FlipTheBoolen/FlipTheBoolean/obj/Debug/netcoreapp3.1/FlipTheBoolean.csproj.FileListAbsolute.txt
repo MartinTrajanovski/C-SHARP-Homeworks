@@ -1,0 +1,22 @@
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.exe
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.deps.json
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.runtimeconfig.json
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.dll
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.pdb
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.AssemblyInfo.cs
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.dll
+C:\Users\Martin\source\repos\FlipTheBoolean\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\bin\Debug\netcoreapp3.1\FlipTheBoolean.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\FlipTheBoolen\FlipTheBoolean\obj\Debug\netcoreapp3.1\FlipTheBoolean.pdb

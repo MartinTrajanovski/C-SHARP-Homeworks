@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.exe
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.deps.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\bin\Debug\netcoreapp3.1\Return Name of Month.pdb
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\obj\Debug\netcoreapp3.1\Return Name of Month.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\obj\Debug\netcoreapp3.1\Return Name of Month.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\obj\Debug\netcoreapp3.1\Return Name of Month.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\obj\Debug\netcoreapp3.1\Return Name of Month.dll
+C:\Users\Martin\Desktop\C#\Homework Break Martin.Trajanovski\Return Name of Month\Return Name of Month\Return Name of Month\obj\Debug\netcoreapp3.1\Return Name of Month.pdb
