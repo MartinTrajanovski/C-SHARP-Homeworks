@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.exe
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.deps.json
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.runtimeconfig.json
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.dll
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\netcoreapp3.1\Hero's Journey.pdb
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\netcoreapp3.1\Hero's Journey.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\netcoreapp3.1\Hero's Journey.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\netcoreapp3.1\Hero's Journey.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\netcoreapp3.1\Hero's Journey.dll
+C:\Users\Martin\Desktop\C#\Homework Game Martin Trajanovski\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\netcoreapp3.1\Hero's Journey.pdb
