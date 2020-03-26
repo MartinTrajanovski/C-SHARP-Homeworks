@@ -1,0 +1,24 @@
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.deps.json
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.runtimeconfig.json
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.runtimeconfig.dev.json
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.dll
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.pdb
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.csprojAssemblyReference.cache
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.AssemblyInfoInputs.cache
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.AssemblyInfo.cs
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.dll
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.pdb
+D:\Seavus\C#\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.genruntimeconfig.cache
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.deps.json
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.runtimeconfig.json
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.runtimeconfig.dev.json
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.dll
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\bin\Debug\netcoreapp2.1\Bonus Task.pdb
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.csprojAssemblyReference.cache
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.AssemblyInfoInputs.cache
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.AssemblyInfo.cs
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.dll
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.pdb
+D:\Seavus\C#\C#\Homework 03 Martin.Trajanovski\Bonus Task\Bonus Task\Bonus Task\obj\Debug\netcoreapp2.1\Bonus Task.genruntimeconfig.cache
