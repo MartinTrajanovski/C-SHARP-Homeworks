@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTydpPDngnyBOsKM3DQ8hZoFzgOwQH0oa1DgwgrNp/SlAuFQX2TW05CAGrNTqcd59YMrcwKwQz05o1hhhpwsWw==",
+  "success": true,
+  "projectFilePath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 04 Martin.Trajanovski\\Task 3\\Task 3\\Task 3\\Task 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

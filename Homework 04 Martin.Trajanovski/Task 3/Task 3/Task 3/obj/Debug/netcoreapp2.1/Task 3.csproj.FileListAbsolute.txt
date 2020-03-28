@@ -1,0 +1,12 @@
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.csprojAssemblyReference.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfo.cs
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.deps.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.dev.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.dll
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\bin\Debug\netcoreapp2.1\Task 3.pdb
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.dll
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.pdb
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 04 Martin.Trajanovski\Task 3\Task 3\Task 3\obj\Debug\netcoreapp2.1\Task 3.genruntimeconfig.cache
