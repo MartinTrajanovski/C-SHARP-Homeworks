@@ -1,0 +1,12 @@
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.genruntimeconfig.cache

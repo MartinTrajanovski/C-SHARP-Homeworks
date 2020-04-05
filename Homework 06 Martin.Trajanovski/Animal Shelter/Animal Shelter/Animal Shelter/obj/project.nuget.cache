@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nv4EhHZSiT7r2SS7l0tSgM782xWGK0UZnYpKzZ5JPW1S+ecwGUCBRmjrViezbv5DLCMf+hEvXWwK+dc1ZkzPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\traja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\bin\Debug\netcoreapp2.1\SEDC Library App.deps.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\bin\Debug\netcoreapp2.1\SEDC Library App.runtimeconfig.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\bin\Debug\netcoreapp2.1\SEDC Library App.runtimeconfig.dev.json
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\bin\Debug\netcoreapp2.1\SEDC Library App.dll
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\bin\Debug\netcoreapp2.1\SEDC Library App.pdb
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.csprojAssemblyReference.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.AssemblyInfo.cs
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.dll
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.pdb
+D:\Seavus\C#\C# ClassCode and Exercise\Class 6 (home) 03.04.2020\demo\Demo\SEDC Library App\obj\Debug\netcoreapp2.1\SEDC Library App.genruntimeconfig.cache

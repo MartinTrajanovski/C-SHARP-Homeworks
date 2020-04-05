@@ -1,0 +1,12 @@
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\bin\Debug\netcoreapp2.1\Animal Shelter.deps.json
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\bin\Debug\netcoreapp2.1\Animal Shelter.runtimeconfig.json
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\bin\Debug\netcoreapp2.1\Animal Shelter.runtimeconfig.dev.json
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\bin\Debug\netcoreapp2.1\Animal Shelter.dll
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\bin\Debug\netcoreapp2.1\Animal Shelter.pdb
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.csprojAssemblyReference.cache
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.AssemblyInfoInputs.cache
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.AssemblyInfo.cs
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.dll
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.pdb
+D:\Seavus\C#\C#\Homework 06 Martin.Trajanovski\Animal Shelter\Animal Shelter\Animal Shelter\obj\Debug\netcoreapp2.1\Animal Shelter.genruntimeconfig.cache
