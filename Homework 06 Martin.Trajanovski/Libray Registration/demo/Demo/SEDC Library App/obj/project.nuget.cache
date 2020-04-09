@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRboNg6ADyLjhdZxz1jf75vLiDRShMdpPlzLYgKdsiAgWtE6hxw+m1DQMraMhqk57efDMtoWahjKegfYgGiLdQ==",
+  "dgSpecHash": "di8RZzJ1qUjxBhw8u8AXhgPX00CRZ0i7MlqO5VyYDvT98YbRJjI24nsZL4B0Cb4L22cL/xOGsggGrxhrpxQYtQ==",
   "success": true,
-  "projectFilePath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
+  "projectFilePath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

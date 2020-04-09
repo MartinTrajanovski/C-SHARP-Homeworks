@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\traja\\.nuget\\packages\\",
-      "outputPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\obj\\",
+      "outputPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\traja\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj": {}
+    "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj": {}
   },
   "projects": {
-    "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj": {
+    "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
+        "projectUniqueName": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
         "projectName": "Animal Shelter",
-        "projectPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
+        "projectPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
         "packagesPath": "C:\\Users\\traja\\.nuget\\packages\\",
-        "outputPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\obj\\",
+        "outputPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\traja\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+nv4EhHZSiT7r2SS7l0tSgM782xWGK0UZnYpKzZ5JPW1S+ecwGUCBRmjrViezbv5DLCMf+hEvXWwK+dc1ZkzPQ==",
+  "dgSpecHash": "2XWvjowgBkWpdmYgQe8T6il0K6gvs2DwHzqw2Uo9r2LU1eZbob/who+OW4TI5v6CEHfpvMhMDN/OT/PIfqY1rg==",
   "success": true,
-  "projectFilePath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
+  "projectFilePath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Animal Shelter\\Animal Shelter\\Animal Shelter\\Animal Shelter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\traja\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

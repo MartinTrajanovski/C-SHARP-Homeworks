@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
+      "projectUniqueName": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
       "projectName": "SEDC Library App",
-      "projectPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
+      "projectPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\SEDC Library App.csproj",
       "packagesPath": "C:\\Users\\traja\\.nuget\\packages\\",
-      "outputPath": "D:\\Seavus\\C#\\C#\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\obj\\",
+      "outputPath": "D:\\Seavus\\C#\\C-SHARP-Homeworks\\Homework 06 Martin.Trajanovski\\Libray Registration\\demo\\Demo\\SEDC Library App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\traja\\AppData\\Roaming\\NuGet\\NuGet.Config",
