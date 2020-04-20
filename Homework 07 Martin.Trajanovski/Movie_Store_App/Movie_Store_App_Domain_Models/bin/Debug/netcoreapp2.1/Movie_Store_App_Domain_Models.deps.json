@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Movie_Store_App_Domain_Models/1.0.0": {
+        "runtime": {
+          "Movie_Store_App_Domain_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movie_Store_App_Domain_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

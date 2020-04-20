@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Movie_Store_App/1.0.0": {
+        "dependencies": {
+          "Movie_Store_App_Domain_Models": "1.0.0",
+          "Movie_Store_App_Services": "1.0.0"
+        },
+        "runtime": {
+          "Movie_Store_App.dll": {}
+        }
+      },
+      "Movie_Store_App_Domain_Models/1.0.0": {
+        "runtime": {
+          "Movie_Store_App_Domain_Models.dll": {}
+        }
+      },
+      "Movie_Store_App_Services/1.0.0": {
+        "dependencies": {
+          "Movie_Store_App_Domain_Models": "1.0.0"
+        },
+        "runtime": {
+          "Movie_Store_App_Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movie_Store_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movie_Store_App_Domain_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movie_Store_App_Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

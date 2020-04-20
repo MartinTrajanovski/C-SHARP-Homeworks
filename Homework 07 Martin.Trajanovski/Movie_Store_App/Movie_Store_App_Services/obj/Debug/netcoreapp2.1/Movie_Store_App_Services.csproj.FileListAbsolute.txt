@@ -1,0 +1,12 @@
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\bin\Debug\netcoreapp2.1\Movie_Store_App_Services.deps.json
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\bin\Debug\netcoreapp2.1\Movie_Store_App_Services.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\bin\Debug\netcoreapp2.1\Movie_Store_App_Services.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\bin\Debug\netcoreapp2.1\Movie_Store_App_Domain_Models.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\bin\Debug\netcoreapp2.1\Movie_Store_App_Domain_Models.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.csprojAssemblyReference.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.AssemblyInfoInputs.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.AssemblyInfo.cs
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.csproj.CopyComplete
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App_Services\obj\Debug\netcoreapp2.1\Movie_Store_App_Services.pdb

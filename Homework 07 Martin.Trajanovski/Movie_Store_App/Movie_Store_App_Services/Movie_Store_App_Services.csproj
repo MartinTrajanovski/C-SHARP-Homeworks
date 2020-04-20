@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Movie_Store_App_Domain_Models\Movie_Store_App_Domain_Models.csproj" />
+  </ItemGroup>
+
+</Project>
