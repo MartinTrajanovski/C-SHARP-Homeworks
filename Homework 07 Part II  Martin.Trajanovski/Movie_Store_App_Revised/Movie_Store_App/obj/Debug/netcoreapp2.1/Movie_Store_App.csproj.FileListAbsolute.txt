@@ -1,0 +1,17 @@
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App.deps.json
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App.runtimeconfig.json
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App.runtimeconfig.dev.json
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App_Domain_Models.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App_Services.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App_Domain_Models.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\bin\Debug\netcoreapp2.1\Movie_Store_App_Services.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.csprojAssemblyReference.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.AssemblyInfoInputs.cache
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.AssemblyInfo.cs
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.csproj.CopyComplete
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.dll
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.pdb
+D:\Seavus\C#\C#\Homework 07 Martin.Trajanovski\Movie_Store_App\Movie_Store_App\obj\Debug\netcoreapp2.1\Movie_Store_App.genruntimeconfig.cache
