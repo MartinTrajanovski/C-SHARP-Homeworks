@@ -1,0 +1,24 @@
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.deps.json
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.runtimeconfig.json
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.runtimeconfig.dev.json
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.dll
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.pdb
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.csprojAssemblyReference.cache
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.AssemblyInfoInputs.cache
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.AssemblyInfo.cs
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.dll
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.pdb
+D:\Seavus\C#\C#\homework 08\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.genruntimeconfig.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.deps.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.runtimeconfig.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.runtimeconfig.dev.json
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.dll
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\bin\Debug\netcoreapp2.1\LINQ.Homework.pdb
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.csprojAssemblyReference.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.AssemblyInfo.cs
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.dll
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.pdb
+D:\Seavus\C#\C-SHARP-Homeworks\Homework 08 Martin.Trajanovski\LINQ.Homework\obj\Debug\netcoreapp2.1\LINQ.Homework.genruntimeconfig.cache
